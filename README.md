@@ -1,5 +1,4 @@
-
-# zabbix-monitoring-lab  
+ 
 # Zabbix Monitoring Project (AWS + VirtualBox)
 
 ## Overview
