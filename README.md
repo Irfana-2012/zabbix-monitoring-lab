@@ -45,9 +45,11 @@ Configured:
 - MariaDB Database
 - Monitoring Dashboard
 - Trigger & Alert System
-<img width="1366" height="768" alt="zabbix-server" src="https://github.com/user-attachments/assets/11d37148-f1b0-4143-88c1-53befc8e9ba3" />
-<img width="1366" height="768" alt="zabbix-server-vpc" src="https://github.com/user-attachments/assets/db8bcd86-73c9-4e85-9d2e-b4b60364aaac" />
-<img width="1366" height="768" alt="zabbix-installation" src="https://github.com/user-attachments/assets/e13c3e93-a9b2-4fac-9064-92c81042d49b" />
+<img width="1366" height="574" alt="zabbix-server" src="https://github.com/user-attachments/assets/47a6e06a-e7f1-4950-8337-a60f54a66239" />
+<img width="1364" height="571" alt="zabbix-server-vpc" src="https://github.com/user-attachments/assets/ceee4ade-2d43-4045-a6ca-4768f7014266" />
+<img width="1366" height="725" alt="zabbix-installation" src="https://github.com/user-attachments/assets/f0bddc8b-f817-4136-829e-5213cede06bd" />
+
+
 
 
 
@@ -62,7 +64,8 @@ Configured:
 - Disk Monitoring
 - Network Monitoring
 <img width="1280" height="800" alt="zabbix-agent-running" src="https://github.com/user-attachments/assets/f4946f21-904f-4207-b03c-76704d80972d" />
-<img width="1366" height="768" alt="ubuntu-vm" src="https://github.com/user-attachments/assets/36bf861e-b324-483b-9b54-ae78c71bb83e" />
+<img width="1280" height="800" alt="zabbix-agent-running" src="https://github.com/user-attachments/assets/54fae677-03a4-4a6a-9f76-956e502e12f4" />
+<img width="1359" height="722" alt="ubuntu-vm" src="https://github.com/user-attachments/assets/7cf9007e-fa4e-4d87-9ce9-a9c1470226cb" />
 
 
 ## Jira Cloud
@@ -97,7 +100,8 @@ Configured:
 - Threshold-based alerts
 - Monitoring dashboards
 - Real-time infrastructure metrics
-<img width="1536" height="1024" alt="jira dashboard" src="https://github.com/user-attachments/assets/dd3f8a46-2d01-476e-a885-2ec6c5744d0c" />
+<img width="1536" height="1024" alt="jira dashboard" src="https://github.com/user-attachments/assets/6f79a4a3-67c9-45b3-bd4d-6db023d079a2" />
+
 
 ## Incident Management
 
@@ -105,7 +109,7 @@ Configured:
 - Alert tracking workflow
 - Monitoring issue management
 - Operational troubleshooting simulation
-<img width="1536" height="1024" alt="incident management" src="https://github.com/user-attachments/assets/66b92bd7-d7e9-44d5-b624-9b161313a9fd" />
+<img width="1536" height="1024" alt="jira incident management" src="https://github.com/user-attachments/assets/6048c0ac-1acd-4075-93a2-e8b34f41a2a4" />
 
 ---
 
