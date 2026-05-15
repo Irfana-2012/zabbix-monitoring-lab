@@ -64,7 +64,6 @@ Configured:
 - Disk Monitoring
 - Network Monitoring
 <img width="1280" height="800" alt="zabbix-agent-running" src="https://github.com/user-attachments/assets/f4946f21-904f-4207-b03c-76704d80972d" />
-<img width="1280" height="800" alt="zabbix-agent-running" src="https://github.com/user-attachments/assets/54fae677-03a4-4a6a-9f76-956e502e12f4" />
 <img width="1359" height="722" alt="ubuntu-vm" src="https://github.com/user-attachments/assets/7cf9007e-fa4e-4d87-9ce9-a9c1470226cb" />
 
 
@@ -89,8 +88,9 @@ Configured:
 - Network monitoring
 - Linux host availability monitoring
 - Performance graph analysis
-<img width="1366" height="768" alt="monitoring (2)" src="https://github.com/user-attachments/assets/9b3a0132-c865-4aa3-9d65-6dc855041a26" />
-<img width="1366" height="768" alt="monitoring" src="https://github.com/user-attachments/assets/86766857-ba5b-4b84-95c4-31a344ae10a3" />
+<img width="1366" height="641" alt="monitoring (2)" src="https://github.com/user-attachments/assets/e3d12986-3886-437c-a1be-07128de4a647" />
+<img width="1364" height="622" alt="monitoring" src="https://github.com/user-attachments/assets/192fd60c-35f4-44a5-966b-4e7600de89ed" />
+
 
 
 ## Alerting & Monitoring
